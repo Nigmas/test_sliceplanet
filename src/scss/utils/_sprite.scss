@@ -1,0 +1,83 @@
+.sprite {
+    background-image: url(../img/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow {
+    width: 11px;
+    height: 7px;
+    background-position: -10px -10px;
+}
+
+.sprite-arrow-color {
+    width: 14px;
+    height: 28px;
+    background-position: -41px -10px;
+}
+
+.sprite-arrow-white {
+    width: 14px;
+    height: 28px;
+    background-position: -75px -10px;
+}
+
+.sprite-basket {
+    width: 23px;
+    height: 23px;
+    background-position: -109px -10px;
+}
+
+.sprite-list {
+    width: 16px;
+    height: 12px;
+    background-position: -152px -10px;
+}
+
+.sprite-mobile-basket {
+    width: 17px;
+    height: 17px;
+    background-position: -188px -10px;
+}
+
+.sprite-mobile-home {
+    width: 20px;
+    height: 16px;
+    background-position: -225px -10px;
+}
+
+.sprite-mobile-menu {
+    width: 16px;
+    height: 14px;
+    background-position: -265px -10px;
+}
+
+.sprite-mobile-person {
+    width: 19px;
+    height: 16px;
+    background-position: -301px -10px;
+}
+
+.sprite-mobile-phone {
+    width: 16px;
+    height: 17px;
+    background-position: -340px -10px;
+}
+
+.sprite-mobile-search {
+    width: 16px;
+    height: 16px;
+    background-position: -376px -10px;
+}
+
+.sprite-person {
+    width: 19px;
+    height: 17px;
+    background-position: -412px -10px;
+}
+
+.sprite-search {
+    width: 18px;
+    height: 18px;
+    background-position: -451px -10px;
+}
